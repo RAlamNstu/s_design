@@ -1,0 +1,17 @@
+/*slider_part*/
+.slidr{
+	margin-top: -20px;
+}
+.content{
+	padding-left: 20px;
+	padding-right: 14px;
+}
+.tmbnail{
+	padding-left: 20px;
+	padding-right: 14px;
+}
+.footer_part{
+	background-color:#3B3B3B;
+	margin-top: 85px;
+	padding: 77px;
+}
